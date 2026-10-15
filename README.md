@@ -14,17 +14,17 @@
 
 <br/>
 
-## 👋 Sobre mí
+## Sobre mí
 
 Soy **desarrollador de software full-stack** en Medellín, técnico en Desarrollo de Software (Cesde) y estudiante de **Ingeniería de Software** en el TdeA. Construyo productos de punta a punta: del diseño de la interfaz a la API y la base de datos.
 
-- 💼 Trabajé **7 meses en WeSportech** en aplicaciones para el sector deportivo: gestión de eventos, streaming, usuarios y facturación, en proyectos para la **Liga Antioqueña de Fútbol** y **Los Paisitas**.
-- 🚀 Soy fundador de **[Dcodea](https://www.instagram.com/dcod.ea/)**, mi estudio de código y diseño: desarrollo web, software a medida y merch para developers.
-- 🤝 Busco mi próximo reto como desarrollador, remoto o en Medellín.
+-  Trabajé **8 meses en WeSportech** en aplicaciones para el sector deportivo: gestión de eventos, streaming, usuarios y facturación, en proyectos para la **Liga Antioqueña de Fútbol** y **Los Paisitas**.
+-  Soy fundador de **[Dcodea](https://www.instagram.com/dcod.ea/)**, mi estudio de código y diseño: desarrollo web, software a medida y merch para developers.
+-  Busco mi próximo reto como desarrollador, remoto o en Medellín.
 
 <br/>
 
-## 🛠️ Stack
+##  Stack
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=angular,react,ts,js,html,css,sass&perline=7" alt="Frontend" />
@@ -43,13 +43,13 @@ Soy **desarrollador de software full-stack** en Medellín, técnico en Desarroll
 
 <br/>
 
-## 🚀 Proyectos destacados
+##  Proyectos destacados
 
 <table>
 <tr>
 <td width="50%" valign="top">
 <a href="https://duangomez.github.io/SmartKitchen/"><img src="https://raw.githubusercontent.com/DuanGomez/Duan-Portafolio/main/public/projects/smartkitchen.webp" alt="SmartKitchen" /></a>
-<h3>🍽️ SmartKitchen</h3>
+<h3> SmartKitchen</h3>
 <p>POS para restaurantes: pedidos por mesa, pantallas por estación (cocina, barra) y facturación con propina. Roles con JWT.</p>
 <p>
 <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white" />
@@ -60,7 +60,7 @@ Soy **desarrollador de software full-stack** en Medellín, técnico en Desarroll
 </td>
 <td width="50%" valign="top">
 <a href="https://duangomez.github.io/Trainix/"><img src="https://raw.githubusercontent.com/DuanGomez/Duan-Portafolio/main/public/projects/trainix.webp" alt="Trainix" /></a>
-<h3>🏋️ Trainix</h3>
+<h3> Trainix</h3>
 <p>Gestión de gimnasios: membresías, pagos, caja con cierre, check-in, rutinas y reportes exportables a Excel.</p>
 <p>
 <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white" />
@@ -73,7 +73,7 @@ Soy **desarrollador de software full-stack** en Medellín, técnico en Desarroll
 <tr>
 <td width="50%" valign="top">
 <a href="https://duangomez.github.io/SaaS-Ventas/"><img src="https://raw.githubusercontent.com/DuanGomez/Duan-Portafolio/main/public/projects/saas-ventas.webp" alt="SaaS Ventas" /></a>
-<h3>🛍️ SaaS Ventas</h3>
+<h3> SaaS Ventas</h3>
 <p>SaaS multi-tienda: cada negocio tiene su vitrina y panel de administración, con ventas directas por WhatsApp.</p>
 <p>
 <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white" />
@@ -84,7 +84,7 @@ Soy **desarrollador de software full-stack** en Medellín, técnico en Desarroll
 </td>
 <td width="50%" valign="top">
 <a href="https://duangomez.github.io/Doose/"><img src="https://raw.githubusercontent.com/DuanGomez/Duan-Portafolio/main/public/projects/doose.webp" alt="Doose Tattoo" /></a>
-<h3>🖋️ Doose Tattoo</h3>
+<h3> Doose Tattoo</h3>
 <p>Estudio de tatuajes: portafolio, carrito de servicios y agenda de citas por tatuador. Proyecto en equipo con Scrum.</p>
 <p>
 <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white" />
